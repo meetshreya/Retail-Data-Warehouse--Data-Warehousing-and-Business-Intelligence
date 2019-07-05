@@ -11,8 +11,7 @@ Created multi-dimensional data model (STAR Schema) and enhanced it to meet growi
 This Repository contains
 
 1. Talend Jobs - Snapshots of all succesful jobs in creating Datawarehouse including a master job
-2. Jobs_Export - All jobs working script
-3. Table row counts - Row counts of each target table in Datawarehouse
+2. Table row counts - Row counts of each target table in Datawarehouse
 
 ## INFO:
 Tool Used : Talend, MSSQL, Oracle, MySQL, Postgres
