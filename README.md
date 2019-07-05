@@ -1,6 +1,6 @@
 # Retail-Data-Warehouse--Data-Warehousing-and-Business-Intelligence
 
-##Topic:
+###Topic:
 Retail Data Warehouse- ETL, Dimensional Modeling, Talend, SSIS,Qlik Sense, Tableau,Power BI
 
 Introduction:
