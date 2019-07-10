@@ -1,7 +1,7 @@
 # Retail-Data-Warehouse--Data-Warehousing-and-Business-Intelligence
 
 ## Topic:
-Retail Data Warehouse- ETL, Dimensional Modeling, Talend, SSIS,Qlik Sense, Tableau,Power BI
+Retail Data Warehouse- ETL, Dimensional Modeling, Talend,Qlik Sense, Tableau,Power BI
 
 ## Introduction:
 This project invloves a retail company that sells a variety of products to people and to business across a variety of sales channels. Created data warehouse from various systems of record (SOR).
